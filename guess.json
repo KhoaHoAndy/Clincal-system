@@ -1,0 +1,9 @@
+﻿[
+  {
+    "body_temperature": 37.2,
+    "heart_rate": 80,
+    "blood_pressure": 90,
+    "respiratory_rate": 15,
+    "state": "normal"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "body_temperature": 37.5,
+    "heart_rate": 99,
+    "blood_pressure": 114,
+    "respiratory_rate": 16,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 116,
+    "blood_pressure": 114,
+    "respiratory_rate": 15,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.7,
+    "heart_rate": 127,
+    "blood_pressure": 95,
+    "respiratory_rate": 14,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.2,
+    "heart_rate": 81,
+    "blood_pressure": 136,
+    "respiratory_rate": 24,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.4,
+    "heart_rate": 90,
+    "blood_pressure": 95,
+    "respiratory_rate": 10,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 91,
+    "blood_pressure": 118,
+    "respiratory_rate": 19,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.7,
+    "heart_rate": 123,
+    "blood_pressure": 113,
+    "respiratory_rate": 23,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.0,
+    "heart_rate": 92,
+    "blood_pressure": 121,
+    "respiratory_rate": 17,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.5,
+    "heart_rate": 90,
+    "blood_pressure": 85,
+    "respiratory_rate": 20,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 90,
+    "blood_pressure": 86,
+    "respiratory_rate": 11,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.2,
+    "heart_rate": 98,
+    "blood_pressure": 125,
+    "respiratory_rate": 19,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.0,
+    "heart_rate": 133,
+    "blood_pressure": 102,
+    "respiratory_rate": 11,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.7,
+    "heart_rate": 120,
+    "blood_pressure": 83,
+    "respiratory_rate": 21,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 95,
+    "blood_pressure": 100,
+    "respiratory_rate": 12,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.9,
+    "heart_rate": 104,
+    "blood_pressure": 94,
+    "respiratory_rate": 18,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.0,
+    "heart_rate": 104,
+    "blood_pressure": 85,
+    "respiratory_rate": 20,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.7,
+    "heart_rate": 119,
+    "blood_pressure": 85,
+    "respiratory_rate": 30,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.6,
+    "heart_rate": 103,
+    "blood_pressure": 110,
+    "respiratory_rate": 16,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.0,
+    "heart_rate": 91,
+    "blood_pressure": 93,
+    "respiratory_rate": 12,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.1,
+    "heart_rate": 131,
+    "blood_pressure": 126,
+    "respiratory_rate": 26,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.5,
+    "heart_rate": 132,
+    "blood_pressure": 100,
+    "respiratory_rate": 14,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.8,
+    "heart_rate": 126,
+    "blood_pressure": 129,
+    "respiratory_rate": 20,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.5,
+    "heart_rate": 98,
+    "blood_pressure": 102,
+    "respiratory_rate": 16,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.2,
+    "heart_rate": 122,
+    "blood_pressure": 95,
+    "respiratory_rate": 30,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 79,
+    "blood_pressure": 112,
+    "respiratory_rate": 26,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.2,
+    "heart_rate": 87,
+    "blood_pressure": 134,
+    "respiratory_rate": 27,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.9,
+    "heart_rate": 105,
+    "blood_pressure": 103,
+    "respiratory_rate": 26,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.1,
+    "heart_rate": 140,
+    "blood_pressure": 114,
+    "respiratory_rate": 10,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.1,
+    "heart_rate": 107,
+    "blood_pressure": 104,
+    "respiratory_rate": 20,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.6,
+    "heart_rate": 100,
+    "blood_pressure": 117,
+    "respiratory_rate": 22,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.5,
+    "heart_rate": 91,
+    "blood_pressure": 130,
+    "respiratory_rate": 27,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.9,
+    "heart_rate": 134,
+    "blood_pressure": 130,
+    "respiratory_rate": 12,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.7,
+    "heart_rate": 116,
+    "blood_pressure": 107,
+    "respiratory_rate": 20,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.9,
+    "heart_rate": 112,
+    "blood_pressure": 137,
+    "respiratory_rate": 20,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.6,
+    "heart_rate": 75,
+    "blood_pressure": 98,
+    "respiratory_rate": 23,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.9,
+    "heart_rate": 70,
+    "blood_pressure": 101,
+    "respiratory_rate": 27,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.1,
+    "heart_rate": 97,
+    "blood_pressure": 91,
+    "respiratory_rate": 19,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.0,
+    "heart_rate": 75,
+    "blood_pressure": 126,
+    "respiratory_rate": 27,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.5,
+    "heart_rate": 136,
+    "blood_pressure": 109,
+    "respiratory_rate": 19,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.6,
+    "heart_rate": 81,
+    "blood_pressure": 131,
+    "respiratory_rate": 10,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.0,
+    "heart_rate": 116,
+    "blood_pressure": 106,
+    "respiratory_rate": 12,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.0,
+    "heart_rate": 96,
+    "blood_pressure": 116,
+    "respiratory_rate": 20,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.9,
+    "heart_rate": 74,
+    "blood_pressure": 87,
+    "respiratory_rate": 16,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 118,
+    "blood_pressure": 93,
+    "respiratory_rate": 12,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.9,
+    "heart_rate": 91,
+    "blood_pressure": 81,
+    "respiratory_rate": 26,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.5,
+    "heart_rate": 101,
+    "blood_pressure": 101,
+    "respiratory_rate": 28,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.6,
+    "heart_rate": 134,
+    "blood_pressure": 117,
+    "respiratory_rate": 12,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.6,
+    "heart_rate": 139,
+    "blood_pressure": 99,
+    "respiratory_rate": 28,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.8,
+    "heart_rate": 116,
+    "blood_pressure": 124,
+    "respiratory_rate": 24,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.7,
+    "heart_rate": 75,
+    "blood_pressure": 83,
+    "respiratory_rate": 26,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.5,
+    "heart_rate": 83,
+    "blood_pressure": 100,
+    "respiratory_rate": 10,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.8,
+    "heart_rate": 88,
+    "blood_pressure": 117,
+    "respiratory_rate": 25,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.5,
+    "heart_rate": 91,
+    "blood_pressure": 135,
+    "respiratory_rate": 15,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.6,
+    "heart_rate": 70,
+    "blood_pressure": 85,
+    "respiratory_rate": 30,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.2,
+    "heart_rate": 82,
+    "blood_pressure": 123,
+    "respiratory_rate": 23,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.4,
+    "heart_rate": 122,
+    "blood_pressure": 118,
+    "respiratory_rate": 14,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.9,
+    "heart_rate": 90,
+    "blood_pressure": 87,
+    "respiratory_rate": 19,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 115,
+    "blood_pressure": 124,
+    "respiratory_rate": 21,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.8,
+    "heart_rate": 120,
+    "blood_pressure": 122,
+    "respiratory_rate": 13,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.1,
+    "heart_rate": 71,
+    "blood_pressure": 92,
+    "respiratory_rate": 12,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.0,
+    "heart_rate": 120,
+    "blood_pressure": 93,
+    "respiratory_rate": 26,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 121,
+    "blood_pressure": 140,
+    "respiratory_rate": 30,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.5,
+    "heart_rate": 125,
+    "blood_pressure": 119,
+    "respiratory_rate": 10,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 114,
+    "blood_pressure": 90,
+    "respiratory_rate": 24,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.8,
+    "heart_rate": 136,
+    "blood_pressure": 98,
+    "respiratory_rate": 15,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.6,
+    "heart_rate": 83,
+    "blood_pressure": 106,
+    "respiratory_rate": 10,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 81,
+    "blood_pressure": 98,
+    "respiratory_rate": 30,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 130,
+    "blood_pressure": 99,
+    "respiratory_rate": 25,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.8,
+    "heart_rate": 119,
+    "blood_pressure": 131,
+    "respiratory_rate": 24,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.4,
+    "heart_rate": 134,
+    "blood_pressure": 93,
+    "respiratory_rate": 24,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.8,
+    "heart_rate": 116,
+    "blood_pressure": 110,
+    "respiratory_rate": 24,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.0,
+    "heart_rate": 137,
+    "blood_pressure": 80,
+    "respiratory_rate": 29,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.6,
+    "heart_rate": 131,
+    "blood_pressure": 129,
+    "respiratory_rate": 21,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.9,
+    "heart_rate": 91,
+    "blood_pressure": 118,
+    "respiratory_rate": 21,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.6,
+    "heart_rate": 89,
+    "blood_pressure": 131,
+    "respiratory_rate": 11,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.8,
+    "heart_rate": 131,
+    "blood_pressure": 87,
+    "respiratory_rate": 19,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.9,
+    "heart_rate": 85,
+    "blood_pressure": 111,
+    "respiratory_rate": 18,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.8,
+    "heart_rate": 70,
+    "blood_pressure": 130,
+    "respiratory_rate": 28,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.2,
+    "heart_rate": 121,
+    "blood_pressure": 109,
+    "respiratory_rate": 26,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 75,
+    "blood_pressure": 138,
+    "respiratory_rate": 17,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.8,
+    "heart_rate": 118,
+    "blood_pressure": 92,
+    "respiratory_rate": 13,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.6,
+    "heart_rate": 85,
+    "blood_pressure": 107,
+    "respiratory_rate": 17,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.9,
+    "heart_rate": 116,
+    "blood_pressure": 86,
+    "respiratory_rate": 19,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.5,
+    "heart_rate": 96,
+    "blood_pressure": 94,
+    "respiratory_rate": 19,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.5,
+    "heart_rate": 103,
+    "blood_pressure": 120,
+    "respiratory_rate": 12,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.0,
+    "heart_rate": 114,
+    "blood_pressure": 127,
+    "respiratory_rate": 29,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 133,
+    "blood_pressure": 127,
+    "respiratory_rate": 23,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.9,
+    "heart_rate": 95,
+    "blood_pressure": 95,
+    "respiratory_rate": 12,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.6,
+    "heart_rate": 118,
+    "blood_pressure": 119,
+    "respiratory_rate": 21,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 97,
+    "blood_pressure": 131,
+    "respiratory_rate": 24,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.2,
+    "heart_rate": 133,
+    "blood_pressure": 91,
+    "respiratory_rate": 13,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.5,
+    "heart_rate": 89,
+    "blood_pressure": 114,
+    "respiratory_rate": 21,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 76,
+    "blood_pressure": 85,
+    "respiratory_rate": 28,
+    "normal": true
+  },
+  {
+    "body_temperature": 36.9,
+    "heart_rate": 94,
+    "blood_pressure": 119,
+    "respiratory_rate": 12,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.9,
+    "heart_rate": 96,
+    "blood_pressure": 104,
+    "respiratory_rate": 13,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.2,
+    "heart_rate": 127,
+    "blood_pressure": 119,
+    "respiratory_rate": 19,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.4,
+    "heart_rate": 77,
+    "blood_pressure": 132,
+    "respiratory_rate": 13,
+    "normal": false
+  },
+  {
+    "body_temperature": 36.8,
+    "heart_rate": 81,
+    "blood_pressure": 123,
+    "respiratory_rate": 28,
+    "normal": true
+  },
+  {
+    "body_temperature": 37.3,
+    "heart_rate": 111,
+    "blood_pressure": 134,
+    "respiratory_rate": 19,
+    "normal": false
+  },
+  {
+    "body_temperature": 37.1,
+    "heart_rate": 86,
+    "blood_pressure": 106,
+    "respiratory_rate": 29,
+    "normal": true
+  }
+]
